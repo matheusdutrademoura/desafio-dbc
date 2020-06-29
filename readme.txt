@@ -1,0 +1,1 @@
+Necessário definir a variável de ambiente HOMEPATH antes de executar Main.java
